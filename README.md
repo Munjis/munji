@@ -10,6 +10,9 @@ These learned behaviours are not entirely stable. A genetic algorithm generates 
 
 When a given learned behaviour consistently prompts you to reward it, it may be uploaded to the server to be shared with others. To reward you for persistent efforts in training your Munji, new behaviours learned from other trainers are periodically downloaded from the server. These new behaviours enrich the gene pool, and give you more opportunities for creativity.
 
+As new behaviours are generated and shared, punished and rewarded, so each Munji will develop its own "personality". Each player will also develop his or her own style of interaction, encouraged by the Munji's constant evolution.
+
+## Join us
 This is an open source project, and we appreciate your participation either as a trainer or a developer.
 
 Visit the [Munji Wiki](https://github.com/Munjis/munji/wiki) for more details.
